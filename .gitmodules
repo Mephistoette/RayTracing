@@ -1,0 +1,3 @@
+[submodule "gitSubmodule"]
+	path = gitSubmodule
+	url = git@github.com:Mephistoette/git-submodule-test.git
